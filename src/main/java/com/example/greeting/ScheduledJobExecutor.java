@@ -1,6 +1,5 @@
 package com.example.greeting;
 
-import com.example.dummyBeans.DefaultGreeting;
 import com.example.dummyBeans.GreetingsService;
 import io.micronaut.context.annotation.Value;
 import io.micronaut.scheduling.TaskScheduler;
